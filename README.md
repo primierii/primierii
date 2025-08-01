@@ -14,8 +14,4 @@ $ echo "Atualmente estudando:"
 > - Engenharia social e ataques reais
 </pre>
 
-## 🌐 Contato
-
-- 💼 [LinkedIn](www.linkedin.com/in/milenaprimieri)  
-
 ---
