@@ -19,7 +19,3 @@ $ echo "Atualmente estudando:"
 - 💼 [LinkedIn](www.linkedin.com/in/milenaprimierio)  
 
 ---
-
-<p align="center" style="color: #00ff00; font-family: 'Courier New', monospace;">
-Feito com 💚 e terminal vibes
-</p>
