@@ -16,6 +16,6 @@ $ echo "Atualmente estudando:"
 
 ## 🌐 Contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/milenaprimierio)  
+- 💼 [LinkedIn](www.linkedin.com/in/milenaprimieri)  
 
 ---
