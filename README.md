@@ -1,6 +1,25 @@
-### E aí👋! Eu sou a Milena Primieri
+# 👩‍💻 Hey there!
 
-- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas no IFRS
-- 🌱 Atualmente estou aprendendo Java e Spring Boot
+<pre style="background-color: #000000; color: #00ff00; padding: 1em; font-family: 'Courier New', monospace;">
+$ whoami
+Estudante de Análise e Desenvolvimento de Sistemas
 
+$ echo "Explorando o mundo da Cybersecurity por conta própria"
+> Aprendizado contínuo em redes, sistemas, segurança ofensiva e defensiva
 
+$ echo "Atualmente estudando:"
+> - Fundamentos de redes e protocolos
+> - Linux para pentest
+> - Ferramentas como Wireshark, Nmap e Burp Suite
+> - Engenharia social e ataques reais
+</pre>
+
+## 🌐 Contato
+
+- 💼 [LinkedIn](www.linkedin.com/in/milenaprimierio)  
+
+---
+
+<p align="center" style="color: #00ff00; font-family: 'Courier New', monospace;">
+Feito com 💚 e terminal vibes
+</p>
